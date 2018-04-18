@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeWebApp", "AcmeWebApp\AcmeWebApp.csproj", "{8B4FF130-720A-4455-8CA4-167772F2634E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.Domain", "Acme.Domain\Acme.Domain.csproj", "{05EEFA90-CDF3-49BC-ABC2-EBD5A6DB2901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.Test", "Acme.Test\Acme.Test.csproj", "{EA002F81-FEAB-4856-AF8A-64C99FC87201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B4FF130-720A-4455-8CA4-167772F2634E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4FF130-720A-4455-8CA4-167772F2634E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4FF130-720A-4455-8CA4-167772F2634E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4FF130-720A-4455-8CA4-167772F2634E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05EEFA90-CDF3-49BC-ABC2-EBD5A6DB2901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05EEFA90-CDF3-49BC-ABC2-EBD5A6DB2901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05EEFA90-CDF3-49BC-ABC2-EBD5A6DB2901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05EEFA90-CDF3-49BC-ABC2-EBD5A6DB2901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA002F81-FEAB-4856-AF8A-64C99FC87201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA002F81-FEAB-4856-AF8A-64C99FC87201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA002F81-FEAB-4856-AF8A-64C99FC87201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA002F81-FEAB-4856-AF8A-64C99FC87201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B21E530-850E-49A6-AFF8-B3EF1C85957D}
+	EndGlobalSection
+EndGlobal
